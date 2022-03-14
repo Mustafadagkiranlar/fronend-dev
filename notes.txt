@@ -1,0 +1,1 @@
+git config help or git config --help -- this command show full manual of git
