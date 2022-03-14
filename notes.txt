@@ -1,1 +1,7 @@
-git config help or git config --help -- this command show full manual of git
+git config help or git config --help ##this command show full manual of git
+git init ##initialise the repository localy 
+git add your file or *(to add all the files) ##add the files to the repository
+git commit -m "your commit text" ##commiting the files to the repository
+git config --global user.username [username] ##link your git with GitHub
+To link local repository to remote repository we can use this commnd git remote add origin [created repository(example::https://github.com/Mustafadagkiranlar/fronend-dev.git)]
+git push origin master ##we push files to master branch
